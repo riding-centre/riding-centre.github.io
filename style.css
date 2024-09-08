@@ -32,9 +32,10 @@ nav ul li:last-child{
  border-right:none;}
 nav ul li a {
  text-decoration: none;
- color: #111111;}
+ color: #f7f7f7;}
 nav ul li.selected{
- color:#292929;
+ color:#555555;
+ background-color:#f7f7f7 ;
 }
 
 p.fact {
