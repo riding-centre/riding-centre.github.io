@@ -3,7 +3,7 @@
  html, body{background-color: #B29C74;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
- padding-top: 6pt;
+ padding-top: 0pt;
  padding-bottom: 18pt;
  padding-left: 18pt;
  padding-right:18pt;
@@ -18,8 +18,8 @@ nav ul {
       border-bottom-right-radius: 25px;
 
       font-weight:bold;
-      padding-top:0px;
-      padding-bottom:25px;
+      padding:25px;
+
       }
 nav ul li {
           display:inline;
