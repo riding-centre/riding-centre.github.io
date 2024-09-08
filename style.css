@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
- html, body{background-color: #B29C74;
+ html, body{background-color: #FFFFFF;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
  padding-top: 0pt;
@@ -11,7 +11,7 @@
 nav ul {
       font-family: 'roboto';
       list-style-type:none;
-      background-color:#db7923;
+      background-color:#A90028;
       
       
       border-bottom-left-radius: 25px;
